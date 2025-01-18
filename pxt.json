@@ -67,7 +67,7 @@
         "_locales/zh-TW/hoc22-ts-strings.json"
     ],
     "targetVersions": {
-        "target": "1.6.27",
+        "target": "2.0.30",
         "targetId": "minecraft"
     },
     "supportedTargets": [
