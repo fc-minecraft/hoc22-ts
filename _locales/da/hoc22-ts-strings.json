@@ -12,7 +12,7 @@
   "TwoDirection.Left|block": "`Blok.MagentaBeton`",
   "TwoDirection.Right|block": "`Blok.Kalkbeton`",
   "hoc22.GreenLeftLaser|block": "skift til venstre `Custom.GreenLeft` af %n",
-  "hoc22.GreenRightLaser|block": "skift til højre `Custom.GreenRight` af %n",
+  "hoc22.GreenRightLaser|block": "skift til højre `Custom.GreenRight` af %n", 
   "hoc22.RedLeftLaser|block": "skift til venstre `Custom.RedLeft` af %n",
   "hoc22.RedRightLaser|block": "skift til højre `Custom.RedRight` af %n",
   "hoc22.YellowLeftLaser|block": "skift til venstre `Custom.YellowLeft` af %n",
